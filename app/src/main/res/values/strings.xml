@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Button App</string>
+    <string name="hard_coded_string_name"> coolHardCodedStringValue </string>
+    <string name="click_button">Submit</string>
+    <string name="color_hint">color_hint</string>
+</resources>
